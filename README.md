@@ -19,6 +19,8 @@ You can use any static server for this purpose (e.g. `python3 -m http.server`), 
 
 Finally, in a new terminal opened to this directory (containing this README), run the tests:
 
+**We strongly urge you to use the --ui option for homework 3 so you can easily browse the trace of your UI navigation!**
+
 ```sh
 npx playwright test
 # or, alternatively:
