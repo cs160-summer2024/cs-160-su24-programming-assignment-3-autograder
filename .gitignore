@@ -1,2 +1,2 @@
-submissions/
-autograder-results/
+node_modules/
+/outputs/
