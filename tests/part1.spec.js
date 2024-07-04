@@ -9,7 +9,7 @@ test(
   {
     annotation: {
       type: "points",
-      description: "5",
+      description: "4", // dear students: please don't change this lol
     },
   },
   // Change the following function to navigate and interact with your UI
